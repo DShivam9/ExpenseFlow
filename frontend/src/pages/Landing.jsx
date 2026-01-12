@@ -4,7 +4,7 @@ import { useRef, useState, useEffect } from 'react'
 import ShinyText from '../components/common/ShinyText'
 import SpotlightCard from '../components/common/SpotlightCard'
 import TiltedCard, { TiltedContent } from '../components/common/TiltedCard'
-import NavBar from '../components/layout/NavBar'
+import Navbar from '../components/layout/Navbar'
 import ScrollFloat from '../components/common/ScrollFloat'
 import ScrollVelocity from '../components/common/ScrollVelocity'
 import VariableProximity from '../components/common/VariableProximity'
@@ -263,7 +263,7 @@ const Landing = () => {
             </div>
 
             {/* Navigation (New Components) */}
-            <NavBar />
+            <Navbar />
 
             {/* Hero Section */}
             <section ref={heroRef} className="relative pt-24 md:pt-32 pb-32 px-4 overflow-hidden">
