@@ -1,5 +1,19 @@
-![Under Development](under_development.png)
+# ExpenseFlow 💸
 
 <div align="center">
-  <h3>🚧 This project is currently under active development 🚧</h3>
+
+# 🚧 UNDER DEVELOPMENT 🚧
+
+### Smart Expense & Budget Management
+
+<p align="center">
+  <i>Building a premium financial tracking experience.</i>
+</p>
+
+---
+
 </div>
+
+<br>
+
+This project is currently being built. Stay tuned for updates!
