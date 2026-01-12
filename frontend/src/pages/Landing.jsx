@@ -4,7 +4,7 @@ import { useRef, useState, useEffect } from 'react'
 import ShinyText from '../components/common/ShinyText'
 import SpotlightCard from '../components/common/SpotlightCard'
 import TiltedCard, { TiltedContent } from '../components/common/TiltedCard'
-import Navbar from '../components/layout/Navbar'
+import Navbar from '../components/layout/Navbar' // Corrected import casing
 import ScrollFloat from '../components/common/ScrollFloat'
 import ScrollVelocity from '../components/common/ScrollVelocity'
 import VariableProximity from '../components/common/VariableProximity'
